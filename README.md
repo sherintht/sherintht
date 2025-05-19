@@ -1,6 +1,7 @@
+
 # Hi, I'm Sherin Samuel! 👋
 
-I’m a passionate Data Scientist and AI Enthusiast with expertise in machine learning, deep learning, and data-driven analytics. Currently interning at Elevate Lab, I specialize in building impactful solutions using Python, SQL, PyTorch, Tableau, and Power BI. My projects include real-time sentiment analysis dashboards, electric vehicle charging demand forecasting, and e-commerce delivery prediction apps, often deployed as interactive Streamlit dashboards for actionable insights.
+I’m a passionate Data Scientist and AI Enthusiast with expertise in machine learning, deep learning, and data-driven analytics. Recently completed a Data Analyst Internship at Elevate Labs (02-04-2025 to 07-05-2025), where I demonstrated exceptional skills in real-world projects. I specialize in building impactful solutions using Python, SQL, PyTorch, Tableau, and Power BI. My projects include real-time sentiment analysis dashboards, electric vehicle charging demand forecasting, e-commerce delivery prediction apps, and a battery failure prediction system, often deployed as interactive Streamlit dashboards for actionable insights.
 
 I hold a Certification in Data Science & AI from the Boston Institute of Analytics, with hands-on mastery in BERT, LightGBM, and hyperparameter tuning. I’m skilled in creating dynamic visualizations and predictive models to drive business innovation, with a strong foundation in NLP, time-series forecasting, and Agile methodologies.
 
@@ -28,9 +29,10 @@ I hold a Certification in Data Science & AI from the Boston Institute of Analyti
 - **Real-Time Public Sentiment Dashboard**: Tracks public opinion on Twitter/X using Python (Tweepy, NLTK) and Tableau.  
 - **Electric Vehicle Charging Demand Forecasting**: Predicts demand with Python (Prophet, ARIMA) and Tableau dashboards.  
 - **E-commerce Product Delivery Prediction**: Streamlit app with models like Random Forest and Grid Search for hyperparameter tuning.  
+- **Battery Failure Prediction**: Developed a predictive model using ensemble techniques (XGBoost, LightGBM) and Streamlit for real-time monitoring of battery health trends.
 
 ## Achievements
-- 🏆 Developed interactive dashboards at Elevate Lab for real-time business insights.  
+- 🏆 Completed Data Analyst Internship at Elevate Labs (02-04-2025 to 07-05-2025) with a certificate of best performer.  
 - 🌟 Published research on smart manufacturing systems in national conferences.  
 - 📈 Certified in Data Science & AI by Boston Institute of Analytics.  
 - 🤖 Built an AI Chatbot for recipe recommendations using NLP and Gradio.  
@@ -38,3 +40,5 @@ I hold a Certification in Data Science & AI from the Boston Institute of Analyti
 ## Profile Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sherintht&show_icons=true&theme=dark)  
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=sherintht&theme=dark)
+
+
