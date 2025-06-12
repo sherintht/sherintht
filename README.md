@@ -25,11 +25,93 @@ I hold a Certification in Data Science & AI from the Boston Institute of Analyti
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)  
 ![Agile](https://img.shields.io/badge/Agile-FF5733?style=flat&logo=agile&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat&logo=scrum&logoColor=white)
 
-## Projects
-- **Real-Time Public Sentiment Dashboard**: Tracks public opinion on Twitter/X using Python (Tweepy, NLTK) and Tableau.  
-- **Electric Vehicle Charging Demand Forecasting**: Predicts demand with Python (Prophet, ARIMA) and Tableau dashboards.  
-- **E-commerce Product Delivery Prediction**: Streamlit app with models like Random Forest and Grid Search for hyperparameter tuning.  
-- **Battery Failure Prediction**: Developed a predictive model using ensemble techniques (XGBoost, LightGBM) and Streamlit for real-time monitoring of battery health trends.
+# My Projects Portfolio
+
+Welcome to my project showcase! This section highlights some of my key work, demonstrating my expertise in data science, machine learning, data visualization, and web application development with Streamlit.
+
+---
+
+### **1. Real-Time Public Sentiment Dashboard:**
+
+**Leveraging real-time data to gauge public opinion and sentiment.**
+
+This project focuses on capturing and analyzing live public sentiment from Twitter/X. It provides immediate insights into trending topics and public perception.
+
+* **Key Technologies:**
+    * **Python:** Data collection and processing (using `Tweepy` for Twitter/X API interaction, `NLTK` for natural language processing and sentiment analysis).
+    * **Tableau:** Interactive and real-time dashboard for visualizing sentiment trends, popular keywords, and topic analysis.
+* **Impact & Features:** Provides a dynamic view of public opinion, useful for market research, brand monitoring, or social trend analysis. Real-time updates ensure the insights are always current.
+
+---
+
+### **2. Electric Vehicle Charging Demand Forecasting:**
+
+**Predicting future demand for EV charging infrastructure to optimize resource allocation.**
+
+In this project, I developed a robust forecasting model to predict the demand for electric vehicle charging, crucial for planning and optimizing EV infrastructure.
+
+* **Key Technologies:**
+    * **Python:** Data analysis and model development (utilizing `Prophet` for time series forecasting, `ARIMA` for traditional statistical modeling).
+    * **Tableau:** Designed interactive dashboards to visualize predicted demand, historical trends, and forecast confidence intervals, enabling stakeholders to make informed decisions.
+* **Impact & Features:** Aids urban planners and utility companies in strategically deploying charging stations, managing grid load, and ensuring adequate service availability for the growing EV market.
+
+---
+
+### **3. E-commerce Product Delivery Prediction:**
+
+**A user-friendly web application predicting product delivery times for enhanced customer experience.**
+
+This project culminated in a Streamlit web application designed to predict estimated delivery times for e-commerce products, directly enhancing customer satisfaction and operational efficiency.
+
+* **Key Technologies:**
+    * **Python:** Core logic for data preprocessing, feature engineering, and model training.
+    * **Machine Learning Models:** Implemented `Random Forest` for its robustness and predictive power.
+    * **Hyperparameter Tuning:** Utilized `Grid Search` to systematically optimize model parameters, ensuring high prediction accuracy.
+    * **Streamlit:** Developed an interactive and intuitive web application allowing users to input parameters and receive delivery predictions in real-time.
+* **Impact & Features:** Improves supply chain visibility, reduces customer inquiries about delivery status, and allows e-commerce platforms to set more accurate expectations.
+
+---
+
+### **4. Battery Failure Prediction:**
+
+**Proactive monitoring and prediction of battery health trends to prevent failures.**
+
+This project focused on building a sophisticated predictive model to anticipate battery failures, enabling timely maintenance and preventing costly downtimes in critical systems.
+
+* **Key Technologies:**
+    * **Python:** Data ingestion, preprocessing, and model development.
+    * **Ensemble Techniques:** Employed powerful models like `XGBoost` and `LightGBM` for their superior accuracy and handling of complex datasets.
+    * **Streamlit:** Created a real-time monitoring dashboard for visualizing battery health metrics, anomaly detection, and predicted failure probabilities.
+* **Impact & Features:** Essential for applications where battery reliability is critical (e.g., EVs, renewable energy storage, IoT devices). It minimizes operational interruptions, extends battery lifespan, and enhances safety through predictive maintenance.
+
+---
+
+### **5. Battery Degradation Analysis App (Streamlit):**
+
+**An interactive Streamlit application to visualize and analyze battery degradation patterns.**
+
+This project provides a user-friendly interface for understanding how battery performance degrades over time. It allows for exploration of degradation trends and potential factors influencing battery lifespan.
+
+* **Key Technologies:**
+    * **Python:** Data processing and analysis for battery performance metrics.
+    * **Streamlit:** Developed the interactive web application for data visualization and user input.
+    * **Libraries:** Likely utilized `Pandas` for data manipulation and visualization libraries like `Matplotlib`, `Seaborn`, or `Plotly`.
+* **Impact & Features:** Offers insights into battery health over extended periods, assists in identifying anomalous degradation, and supports decision-making for battery maintenance or replacement schedules.
+
+---
+
+### **6. Phone Number Geolocation App (Streamlit):**
+
+**A simple yet effective Streamlit application for identifying the geographical origin of a phone number.**
+
+This tool allows users to input a phone number and retrieve its associated country and telecommunication provider information, demonstrating data lookup and real-time application development.
+
+* **Key Technologies:**
+    * **Python:** Core logic for parsing and querying phone number information.
+    * **Streamlit:** Developed the intuitive web interface for input and display of geolocation results.
+    * **Libraries:** Likely used the `phonenumbers` library for robust phone number parsing and validation.
+* **Impact & Features:** Provides quick geographical insights from phone numbers, useful for various applications like identifying potential spam calls, validating contact information, or understanding regional distribution.
+
 
 ## Achievements
 - 🏆 Completed Data Analyst Internship at Elevate Labs (02-04-2025 to 07-05-2025) with a certificate of best performer.  
