@@ -5,8 +5,11 @@ I’m a passionate Data Scientist and AI Enthusiast with expertise in machine le
 
 I hold a Certification in Data Science & AI from the Boston Institute of Analytics, with hands-on mastery in BERT, LightGBM, and hyperparameter tuning. I’m skilled in creating dynamic visualizations and predictive models to drive business innovation, with a strong foundation in NLP, time-series forecasting, and Agile methodologies.
 
+### 📬 Connect With Me
+
 📧 [sherinsamueltht@gmail.com](mailto:sherinsamueltht@gmail.com)  
-🌐 [LinkedIn](https://linkedin.com/in/sherinsamuel-) | [GitHub](https://github.com/sherintht)
+🌐 [LinkedIn](https://linkedin.com/in/sherinsamuel-) | [GitHub](https://github.com/sherintht)  |🤗 [Hugging Face](https://huggingface.co/sherintht)
+
 
 ## Skills and Technologies
 ### Machine Learning & Deep Learning
@@ -111,6 +114,13 @@ This tool allows users to input a phone number and retrieve its associated count
     * **Streamlit:** Developed the intuitive web interface for input and display of geolocation results.
     * **Libraries:** Likely used the `phonenumbers` library for robust phone number parsing and validation.
 * **Impact & Features:** Provides quick geographical insights from phone numbers, useful for various applications like identifying potential spam calls, validating contact information, or understanding regional distribution.
+
+### 7. 🎙️ Whisper Speech-to-Text App
+Real-time English speech transcription using OpenAI Whisper and Gradio.
+- 🎤 Record from microphone or upload audio.
+- ⚡ Powered by `openai/whisper-base.en`, Hugging Face, and Gradio.
+- 🔗 [Live Demo](https://sherintht-whisper-stt.hf.space) | [GitHub Repo](https://github.com/sherintht/whisper-stt)
+
 
 
 ## Achievements
