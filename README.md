@@ -1,9 +1,22 @@
 
 # Hi, I'm Sherin Samuel! 👋
 
-I’m a passionate Data Scientist and AI Enthusiast with expertise in machine learning, deep learning, and data-driven analytics. Recently completed a Data Analyst Internship at Elevate Labs (02-04-2025 to 07-05-2025), where I demonstrated exceptional skills in real-world projects. I specialize in building impactful solutions using Python, SQL, PyTorch, Tableau, and Power BI. My projects include real-time sentiment analysis dashboards, electric vehicle charging demand forecasting, e-commerce delivery prediction apps, and a battery failure prediction system, often deployed as interactive Streamlit dashboards for actionable insights.
+I am an Assistant Professor with over six years of teaching experience in Electrical & Electronics Engineering, Instrumentation & Control Systems, and Artificial Intelligence. My passion lies in integrating AI, Data Science, and automation into engineering education while mentoring students for industry readiness.
 
-I hold a Certification in Data Science & AI from the Boston Institute of Analytics, with hands-on mastery in BERT, LightGBM, and hyperparameter tuning. I’m skilled in creating dynamic visualizations and predictive models to drive business innovation, with a strong foundation in NLP, time-series forecasting, and Agile methodologies.
+My areas of expertise include Machine Learning, Generative AI, Agentic AI, Python, Data Analytics, Industrial Automation, and AI workflow automation. I enjoy developing practical AI applications, intelligent automation solutions, and data-driven systems that bridge the gap between academia and industry.
+
+I am particularly interested in AI for Education, Career Readiness, Smart Automation, and applied research that creates meaningful impact for students and institutions.
+
+Areas of Interest
+
+Artificial Intelligence & Machine Learning
+Generative AI & Agentic AI
+Data Science & Analytics
+Python Development
+Industrial Automation (PLC & SCADA)
+AI in Engineering Education
+Research & Innovation
+Student Mentoring & Career Development
 
 ### 📬 Connect With Me
 
